@@ -1,2 +1,2 @@
 # Infografika
-Tahle infografika je o programovac9m jazyku python
+Tahle infografika je o programovacím jazyku python
